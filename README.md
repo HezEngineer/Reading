@@ -1,2 +1,2 @@
 # Reading
-blogs and so on
+[blog.md] : record some bolgs worth reading
