@@ -1,2 +1,2 @@
 # Reading
-blog and so on
+blogs and so on
