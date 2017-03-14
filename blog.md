@@ -8,6 +8,8 @@
 
 [罗升阳](http://blog.csdn.net/luoshengyang)
 
+[邓凡平](http://blog.csdn.net/innost)
+
 [Mr.Simple](http://blog.csdn.net/bboyfeiyu)
 
 [工匠若水](http://blog.csdn.net/yanbober)
