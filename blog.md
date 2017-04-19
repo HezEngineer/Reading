@@ -1,10 +1,10 @@
-#Android开发周报
+# Android Weekly
 
 [英文版](http://androidweekly.net/)
 
 [中文版](http://www.androidweekly.cn/)
 
-#blog
+# blog
 
 [罗升阳](http://blog.csdn.net/luoshengyang)
 
@@ -19,3 +19,7 @@
 [美团点评技术团队](http://tech.meituan.com/)
 
 [Android 博客周刊](http://androidblog.cn/)
+
+# principle
+
+ ### [kiss](https://people.apache.org/~fhanik/kiss.html)
